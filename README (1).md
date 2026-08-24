@@ -44,10 +44,16 @@ The aerospike spike contour was generated using a Python implementation of **Ang
 
 Nozzle Geometries
 <img width="1497" height="1021" alt="image" src="https://github.com/user-attachments/assets/b1a7a5f4-5e77-4056-aa54-ec434e921302" />
+<img width="1501" height="1027" alt="image" src="https://github.com/user-attachments/assets/1ba6f6ae-f07d-40cd-b524-ce9348fda91e" />
+<img width="1495" height="1021" alt="image" src="https://github.com/user-attachments/assets/8aef1877-245a-438a-8636-42407a024cf1" />
+<img width="1497" height="1027" alt="image" src="https://github.com/user-attachments/assets/a8d5a88e-c31d-498d-91d9-ca69a1809b7b" />
+
+
 
 
 Aerospike CAD Model
-<!-- ![Aerospike](images/aerospike_cad.jpg) -->
+<img width="676" height="624" alt="image" src="https://github.com/user-attachments/assets/706e35e9-dcda-4354-8a2e-63fe53a0589e" />
+
 
 ## Test Stand
 
@@ -59,7 +65,9 @@ The thruster fires vertically upward, aligning the thrust vector with the load c
 - **Supply hose routed with slack to prevent parasitic force transmission**
 
 Assembled Test Stand
-<!-- ![Test stand](images/test_stand.jpg) -->
+<img width="952" height="1269" alt="image" src="https://github.com/user-attachments/assets/02592690-d3f0-4b48-abcd-3ee646376bcb" />
+<img width="1280" height="720" alt="thrust_trace (1)" src="https://github.com/user-attachments/assets/8afaa46e-a253-466b-82f6-6fe44a545474" />
+
 
 ## Gas System
 
@@ -70,7 +78,7 @@ CO₂ cylinder → CGA-320 adapter → adjustable regulator → solenoid valve �
 - **Garden-hose-thread nozzle interface for tool-free geometry swaps**
 
 Plenum Assembly
-<!-- ![Plenum](images/plenum.jpg) -->
+<img width="1242" height="2208" alt="IMG_4561" src="https://github.com/user-attachments/assets/fd7d0ab9-b3e8-4fb9-8abb-531d4dfef401" />
 
 ## Solenoid Drive Circuit
 
