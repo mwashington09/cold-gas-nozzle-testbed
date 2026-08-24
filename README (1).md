@@ -43,7 +43,8 @@ The aerospike spike contour was generated using a Python implementation of **Ang
 | Spike length | 10.69 mm |
 
 Nozzle Geometries
-<!-- ![Nozzle geometries](images/nozzles.jpg) -->
+<img width="1497" height="1021" alt="image" src="https://github.com/user-attachments/assets/b1a7a5f4-5e77-4056-aa54-ec434e921302" />
+
 
 Aerospike CAD Model
 <!-- ![Aerospike](images/aerospike_cad.jpg) -->
