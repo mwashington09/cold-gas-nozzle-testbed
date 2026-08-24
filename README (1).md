@@ -43,6 +43,7 @@ The aerospike spike contour was generated using a Python implementation of **Ang
 | Spike length | 10.69 mm |
 
 Nozzle Geometries
+
 <img width="1497" height="1021" alt="image" src="https://github.com/user-attachments/assets/b1a7a5f4-5e77-4056-aa54-ec434e921302" />
 <img width="1501" height="1027" alt="image" src="https://github.com/user-attachments/assets/1ba6f6ae-f07d-40cd-b524-ce9348fda91e" />
 <img width="1495" height="1021" alt="image" src="https://github.com/user-attachments/assets/8aef1877-245a-438a-8636-42407a024cf1" />
@@ -52,6 +53,8 @@ Nozzle Geometries
 
 
 Aerospike CAD Model
+
+
 <img width="676" height="624" alt="image" src="https://github.com/user-attachments/assets/706e35e9-dcda-4354-8a2e-63fe53a0589e" />
 
 
@@ -66,7 +69,7 @@ The thruster fires vertically upward, aligning the thrust vector with the load c
 
 Assembled Test Stand
 <img width="952" height="1269" alt="image" src="https://github.com/user-attachments/assets/02592690-d3f0-4b48-abcd-3ee646376bcb" />
-<img width="1280" height="720" alt="thrust_trace (1)" src="https://github.com/user-attachments/assets/8afaa46e-a253-466b-82f6-6fe44a545474" />
+
 
 
 ## Gas System
@@ -145,10 +148,13 @@ Mean steady-state thrust in grams-force:
 Replicates 2 and 3 agreed to within 0.7% at 40 psi and 2.2% at 80 psi. At 120 psi they disagreed by 45% (103.6 and 150.4 gf), so no mean is reported for that condition. Conical testing was also conducted on a cold-soaked cylinder at 13–15 °C versus 19–21 °C for the other geometries, which reduces available supply pressure. The specific cause of the first-run anomaly was not isolated before testing concluded.
 
 Representative Thrust Trace
-<!-- ![Thrust trace](images/thrust_trace.png) -->
+
+<img width="1280" height="720" alt="thrust_trace (1)" src="https://github.com/user-attachments/assets/8afaa46e-a253-466b-82f6-6fe44a545474" />
 
 Thrust vs. Supply Pressure
-<!-- ![Thrust comparison](images/thrust_comparison.png) -->
+
+<img width="1200" height="800" alt="thrust_comparison" src="https://github.com/user-attachments/assets/c8288b70-0c73-4681-8853-d9abf58cd0c2" />
+
 
 ## The Flow Regime Finding
 
