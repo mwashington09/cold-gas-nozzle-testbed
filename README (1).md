@@ -32,7 +32,7 @@ Four geometries were designed to identical throat area and expansion ratio, diff
 
 All were fabricated in PLA on an AnkerMake M5C.
 
-The aerospike spike contour was generated using a Python implementation of **Angelino's approximate method** for axisymmetric plug nozzles. For CO₂ at γ = 1.29 and ε = 4, this produces:
+The aerospike spike contour was generated using a Python implementation of **Angelino's approximate method** for axisymmetric plug nozzles. Using the heat capacity ratio of CO₂ (γ = 1.29) and the expansion ratio (ε = 4), produces:
 
 | Parameter | Value |
 |---|---|
