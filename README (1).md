@@ -56,7 +56,7 @@ Nozzle Geometries
 Aerospike CAD Model
 
 
-<img width="676" height="624" alt="image" src="https://github.com/user-attachments/assets/706e35e9-dcda-4354-8a2e-63fe53a0589e" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/706e35e9-dcda-4354-8a2e-63fe53a0589e" />
 
 
 ## Test Stand
@@ -69,7 +69,7 @@ The thruster fires vertically upward, aligning the thrust vector with the load c
 - **Supply hose routed with slack to prevent parasitic force transmission**
 
 Assembled Test Stand
-<img width="952" height="1269" alt="image" src="https://github.com/user-attachments/assets/02592690-d3f0-4b48-abcd-3ee646376bcb" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/02592690-d3f0-4b48-abcd-3ee646376bcb" />
 
 
 
@@ -82,7 +82,7 @@ CO₂ cylinder → CGA-320 adapter → adjustable regulator → solenoid valve �
 - **Garden-hose-thread nozzle interface for tool-free geometry swaps**
 
 Plenum Assembly
-<img width="1242" height="2208" alt="IMG_4561" src="https://github.com/user-attachments/assets/fd7d0ab9-b3e8-4fb9-8abb-531d4dfef401" />
+<img width="350" alt="IMG_4561" src="https://github.com/user-attachments/assets/fd7d0ab9-b3e8-4fb9-8abb-531d4dfef401" />
 
 ## Solenoid Drive Circuit
 
@@ -97,7 +97,7 @@ The Arduino cannot source enough current to actuate the valve directly, so a low
 The flyback diode matters here: without it, collapsing current in the coil drives the drain node to several hundred volts and destroys the MOSFET.
 
 Solenoid Drive Circuit
-<img width="1960" height="1400" alt="solenoid_circuit" src="https://github.com/user-attachments/assets/f661c395-eea8-4da5-88a9-ba5e7492d220" />
+<img width="800" alt="solenoid_circuit" src="https://github.com/user-attachments/assets/f661c395-eea8-4da5-88a9-ba5e7492d220" />
 
 
 ## Instrumentation
@@ -117,7 +117,7 @@ Six sensor channels plus valve actuation on an Arduino Mega 2560:
 Both load cells were calibrated against a 370 g reference mass. Thrust resolution reached 0.021 gf per ADC count with a noise floor below 1 gf.
 
 DAQ Architecture and Gas Path
-<img width="2360" height="1760" alt="system_diagram" src="https://github.com/user-attachments/assets/437fafc4-2b11-4e8a-9395-00769dd37d81" />
+<img width="850" alt="system_diagram" src="https://github.com/user-attachments/assets/437fafc4-2b11-4e8a-9395-00769dd37d81" />
 
 
 ## Data Acquisition
@@ -152,11 +152,11 @@ Replicates 2 and 3 agreed to within 0.7% at 40 psi and 2.2% at 80 psi. At 120 ps
 
 Representative Thrust Trace
 
-<img width="1280" height="720" alt="thrust_trace (1)" src="https://github.com/user-attachments/assets/8afaa46e-a253-466b-82f6-6fe44a545474" />
+<img width="700" alt="thrust_trace (1)" src="https://github.com/user-attachments/assets/8afaa46e-a253-466b-82f6-6fe44a545474" />
 
 Thrust vs. Supply Pressure
 
-<img width="1200" height="800" alt="thrust_comparison" src="https://github.com/user-attachments/assets/c8288b70-0c73-4681-8853-d9abf58cd0c2" />
+<img width="600" alt="thrust_comparison" src="https://github.com/user-attachments/assets/c8288b70-0c73-4681-8853-d9abf58cd0c2" />
 
 
 ## The Flow Regime Finding
