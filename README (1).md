@@ -134,6 +134,9 @@ A Python script on the host receives the stream, prompts for run metadata, and w
 
 **Final Test Stand Setup:**
 
+<img width="450" alt="IMG_4643 (1)" src="https://github.com/user-attachments/assets/b7c4f34c-303d-48cc-839e-fd6d824d3809" />
+
+
 ## Results
 
 **36 test firings** — four geometries, three supply pressures, three replicates each.
