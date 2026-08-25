@@ -132,6 +132,8 @@ Thermocouples are sampled before and after the burn rather than during, since po
 
 A Python script on the host receives the stream, prompts for run metadata, and writes a timestamped CSV per firing.
 
+**Final Test Stand Setup:**
+
 ## Results
 
 **36 test firings** — four geometries, three supply pressures, three replicates each.
