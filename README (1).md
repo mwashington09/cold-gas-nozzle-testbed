@@ -44,10 +44,10 @@ The aerospike spike contour was generated using a Python implementation of **Ang
 
 Nozzle Geometries
 
-<img width="400" height="1021" alt="image" src="https://github.com/user-attachments/assets/b1a7a5f4-5e77-4056-aa54-ec434e921302" />
-<img width="1501" height="1027" alt="image" src="https://github.com/user-attachments/assets/1ba6f6ae-f07d-40cd-b524-ce9348fda91e" />
-<img width="1495" height="1021" alt="image" src="https://github.com/user-attachments/assets/8aef1877-245a-438a-8636-42407a024cf1" />
-<img width="1497" height="1027" alt="image" src="https://github.com/user-attachments/assets/a8d5a88e-c31d-498d-91d9-ca69a1809b7b" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/b1a7a5f4-5e77-4056-aa54-ec434e921302" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/1ba6f6ae-f07d-40cd-b524-ce9348fda91e" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/8aef1877-245a-438a-8636-42407a024cf1" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a8d5a88e-c31d-498d-91d9-ca69a1809b7b" />
 
 
 
