@@ -115,8 +115,9 @@ Six sensor channels plus valve actuation on an Arduino Mega 2560:
 
 Both load cells were calibrated against a 370 g reference mass. Thrust resolution reached 0.021 gf per ADC count with a noise floor below 1 gf.
 
-Breadboard and DAQ Wiring
-<!-- ![Electronics](images/electronics.jpg) -->
+DAQ Architecture and Gas Path
+<img width="2360" height="1760" alt="system_diagram" src="https://github.com/user-attachments/assets/437fafc4-2b11-4e8a-9395-00769dd37d81" />
+
 
 ## Data Acquisition
 
