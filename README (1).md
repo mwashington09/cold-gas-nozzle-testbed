@@ -69,6 +69,7 @@ The thruster fires vertically upward, aligning the thrust vector with the load c
 - **Supply hose routed with slack to prevent parasitic force transmission**
 
 Assembled Test Stand
+
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/02592690-d3f0-4b48-abcd-3ee646376bcb" />
 
 
@@ -82,6 +83,7 @@ CO₂ cylinder → CGA-320 adapter → adjustable regulator → solenoid valve �
 - **Garden-hose-thread nozzle interface for tool-free geometry swaps**
 
 Plenum Assembly
+
 <img width="350" alt="IMG_4561" src="https://github.com/user-attachments/assets/fd7d0ab9-b3e8-4fb9-8abb-531d4dfef401" />
 
 ## Solenoid Drive Circuit
@@ -97,6 +99,7 @@ The Arduino cannot source enough current to actuate the valve directly, so a low
 The flyback diode matters here: without it, collapsing current in the coil drives the drain node to several hundred volts and destroys the MOSFET.
 
 Solenoid Drive Circuit
+
 <img width="800" alt="solenoid_circuit" src="https://github.com/user-attachments/assets/f661c395-eea8-4da5-88a9-ba5e7492d220" />
 
 
@@ -117,6 +120,7 @@ Six sensor channels plus valve actuation on an Arduino Mega 2560:
 Both load cells were calibrated against a 370 g reference mass. Thrust resolution reached 0.021 gf per ADC count with a noise floor below 1 gf.
 
 DAQ Architecture and Gas Path
+
 <img width="850" alt="system_diagram" src="https://github.com/user-attachments/assets/437fafc4-2b11-4e8a-9395-00769dd37d81" />
 
 
