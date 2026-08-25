@@ -96,7 +96,8 @@ The Arduino cannot source enough current to actuate the valve directly, so a low
 The flyback diode matters here: without it, collapsing current in the coil drives the drain node to several hundred volts and destroys the MOSFET.
 
 Solenoid Drive Circuit
-<!-- ![Solenoid circuit](images/solenoid_circuit.jpg) -->
+<img width="1960" height="1400" alt="solenoid_circuit" src="https://github.com/user-attachments/assets/f661c395-eea8-4da5-88a9-ba5e7492d220" />
+
 
 ## Instrumentation
 
